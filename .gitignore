@@ -1,0 +1,7 @@
+config.py
+__pycache__/
+venv/
+data.csv
+data3.csv
+reports.db
+subscribers.db
